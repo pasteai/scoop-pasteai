@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pasteai/pasteai/releases/download/v0.0.1/pasteai_0.0.1_windows_amd64.zip",
+            "bin": [
+                "pasteai.exe"
+            ],
+            "hash": "954f9cec6b1e1bd5e4f00970ad3c90b0652a0172d100f1d3b12cecce4aec1c8f"
+        }
+    },
+    "homepage": "https://github.com/pasteai/pasteai",
+    "license": "MIT",
+    "description": "AI publishes markdown documents via MCP. You read them in a clean, themed web UI."
+}
