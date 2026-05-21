@@ -1,12 +1,12 @@
 {
-    "version": "0.0.9",
+    "version": "0.0.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pasteai/pasteai/releases/download/v0.0.9/pasteai_0.0.9_windows_amd64.zip",
+            "url": "https://github.com/pasteai/pasteai/releases/download/v0.0.10/pasteai_0.0.10_windows_amd64.zip",
             "bin": [
                 "pasteai.exe"
             ],
-            "hash": "30aee7547a2f1fc087988edf84be9fc7fc8578b55b339fd981b4c3c7255e9060"
+            "hash": "a4491bdd3da5662c6f27170fabd096a6cdb2eeb64b3fabeffc334a70bd20182c"
         }
     },
     "homepage": "https://github.com/pasteai/pasteai",
